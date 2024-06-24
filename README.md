@@ -47,3 +47,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hvmil/Leetcode-Grind/tree/master/0053-maximum-subarray) |
+# Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
