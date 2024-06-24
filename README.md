@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hvmil/Leetcode-Grind/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/hvmil/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
 # String
 |  |
 | ------- |
@@ -32,3 +33,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hvmil/Leetcode-Grind/tree/master/0033-search-in-rotated-sorted-array) |
+# Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hvmil/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
+# Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hvmil/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
