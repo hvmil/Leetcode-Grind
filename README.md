@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search Tree
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/hvmil/Leetcode-Grind/tree/master/0278-first-bad-version) |
 | [0450-delete-node-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
 # Binary Tree
@@ -62,3 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/hvmil/Leetcode-Grind/tree/master/0278-first-bad-version) |
