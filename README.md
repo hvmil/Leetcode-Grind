@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hvmil/Leetcode-Grind/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/hvmil/Leetcode-Grind/tree/master/0383-ransom-note) |
 # Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hvmil/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/hvmil/Leetcode-Grind/tree/master/0383-ransom-note) |
 # Linked List
 |  |
 | ------- |
@@ -88,3 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hvmil/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
+# Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hvmil/Leetcode-Grind/tree/master/0383-ransom-note) |
