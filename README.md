@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hvmil/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
 # Binary Search Tree
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hvmil/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
 # Interactive
@@ -72,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hvmil/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0733-flood-fill](https://github.com/hvmil/Leetcode-Grind/tree/master/0733-flood-fill) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/hvmil/Leetcode-Grind/tree/master/0733-flood-fill) |
+# Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hvmil/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
