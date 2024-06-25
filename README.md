@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hvmil/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/hvmil/Leetcode-Grind/tree/master/0278-first-bad-version) |
 | [0450-delete-node-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hvmil/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0784-insert-into-a-binary-search-tree) |
 # Interactive
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hvmil/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hvmil/Leetcode-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0733-flood-fill](https://github.com/hvmil/Leetcode-Grind/tree/master/0733-flood-fill) |
 # Breadth-First Search
 |  |
