@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hvmil/Leetcode-Grind/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/hvmil/Leetcode-Grind/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hvmil/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Two Pointers
 |  |
@@ -94,3 +95,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/hvmil/Leetcode-Grind/tree/master/0383-ransom-note) |
+# Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hvmil/Leetcode-Grind/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hvmil/Leetcode-Grind/tree/master/0070-climbing-stairs) |
