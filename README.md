@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hvmil/Leetcode-Grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hvmil/Leetcode-Grind/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hvmil/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/hvmil/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0733-flood-fill](https://github.com/hvmil/Leetcode-Grind/tree/master/0733-flood-fill) |
 # Matrix
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hvmil/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/hvmil/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/hvmil/Leetcode-Grind/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/hvmil/Leetcode-Grind/tree/master/0409-longest-palindrome) |
 # Linked List
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hvmil/Leetcode-Grind/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/hvmil/Leetcode-Grind/tree/master/0169-majority-element) |
 # Tree
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hvmil/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/hvmil/Leetcode-Grind/tree/master/0383-ransom-note) |
 # Math
 |  |
@@ -109,3 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/hvmil/Leetcode-Grind/tree/master/0409-longest-palindrome) |
+# Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hvmil/Leetcode-Grind/tree/master/0169-majority-element) |
