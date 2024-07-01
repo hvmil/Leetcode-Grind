@@ -124,3 +124,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hvmil/Leetcode-Grind/tree/master/0067-add-binary) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/hvmil/Leetcode-Grind/tree/master/0543-diameter-of-binary-tree) |
+<!---LeetCode Topics End-->
